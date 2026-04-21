@@ -6,6 +6,7 @@ dependencies = [
     "dagster==1.12.22",
     "dagster-duckdb>=0.28.22",
     "dagster-duckdb-pandas>=0.28.22",
+    "pandas>=2.3.3",
     "python-dotenv>=1.2.2",
 ]
 
